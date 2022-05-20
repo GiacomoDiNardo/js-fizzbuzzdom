@@ -23,7 +23,7 @@ h1 {
     background-color: #F0466F;
 }
 
-.square {
+.my-col {
     display: flex;
     width: calc(100% / 7 - 1rem);
     aspect-ratio: 1/1;
