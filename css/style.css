@@ -1,0 +1,33 @@
+body {
+    background-color: #083B4C;
+}
+
+h1 {
+    font-size: 90px;
+    font-weight: bold;
+}
+
+.number-color{
+ background-color: #1389B2;
+}
+
+.fizz-color{
+    background-color: #0BD6A1;
+}
+
+.buzz-color{
+    background-color: #FFD166;
+}
+
+.fizz-buzz-color{
+    background-color: #F0466F;
+}
+
+.square {
+    display: flex;
+    width: calc(100% / 7 - 1rem);
+    aspect-ratio: 1/1;
+    justify-content: center;
+    align-items: center;  
+    font-size: 20px;  
+}
